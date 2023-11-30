@@ -84,7 +84,6 @@
           }
         }
       });
-
       checkCookie();
     });
   </script>

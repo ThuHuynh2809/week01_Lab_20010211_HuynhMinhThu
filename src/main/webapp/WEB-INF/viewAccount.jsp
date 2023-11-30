@@ -43,6 +43,7 @@
         </c:forEach>
 
         <tr>
+            <from action="/week01_lab_20010211_huynhminhthu/DelAccount">
             <form action="/week01_lab_20010211_huynhminhthu/AddAccount">
                 <td><input style="width: 100px" type="text" name="id"></td>
                 <td><input style="width: 200px" type="text" name="name"></td>
@@ -51,8 +52,12 @@
                 <td><input style="width: 200px" type="text" name="phone"></td>
                 <td><input style="width: 50px" type="text" name="status"></td>
                 <td>
+                    <input class="btn-success" type="submit" value="Delete"></input>
+                </td>
+                <td>
                     <input class="btn-success" type="submit" value="create"></input>
                 </td>
+            </from>
             </form>
         </tr>
 

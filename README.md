@@ -23,14 +23,14 @@
  - Entity Relationship Diagram:
 <h3>
 <p>
-<img src="img/erd.png">
+<img src="img/Erd.png">
 </p>
 <hr>
 <h3>
  -  Class Diagram:
 <h3>
 <p>
-<img src="img/diagram.png">
+<img src="img/Diagram.png">
 </p>
 <hr>
 
@@ -61,11 +61,27 @@
 <hr>
 
 <h3>
+- View List Account, chức năng thêm, xóa của admin
+</h3>
+<p>
+<img src="img/viewA.png">
+</p>
+<hr>
+
+<h3>
+- View List log
+</h3>
+<p>
+<img src="img/viewLog.png">
+</p>
+<hr>
+
+<h3>
 - Login với tài khoản "user", hiển thị thông tin tk sau khi đăng nhập
 </h3>
 <p>
 <img src="img/loginUser.png">
 </p>
 <hr>
----------------------------------------------------------------------------------------------------------------------------------
+<hr>
 <hr>
