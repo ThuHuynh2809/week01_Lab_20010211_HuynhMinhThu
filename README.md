@@ -23,14 +23,14 @@
  - Entity Relationship Diagram:
 <h3>
 <p>
-<img src="img/Erd.png">
+<img src="img/erd.png">
 </p>
 <hr>
 <h3>
  -  Class Diagram:
 <h3>
 <p>
-<img src="img/Diagram.png">
+<img src="img/diagram.png">
 </p>
 <hr>
 
